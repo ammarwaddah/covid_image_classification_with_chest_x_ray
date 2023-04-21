@@ -1,4 +1,4 @@
-# Covid Image Classification with Chest X-Ray.ipynb
+# Covid Image Classification with Chest X-Ray
 
 Using Machine Learning and Deep Learning techniques so that we can train our CNN model for automating the whole diagnosis method to detect COVID-19 virus. using significant features given by the most linked features that are taken into consideration when evaluating the target.
 
