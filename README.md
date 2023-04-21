@@ -42,7 +42,7 @@ The evaluation metric for this competition is [Mean F1-Score](https://en.wikiped
 * Programming language: Python.
 * Libraries: Numpy, Matplotlib, Pandas, Seaborn, plotly, tensorflow, sklearn, Pillow, copy, os-sys, opencv, plotly, tqdm, keras. 
 * Application: Jupyter Notebook.
-,
+
 ## Setup
 
 To run this project setup the following libraries on your local machine using pip on the terminal after installing Python:\
@@ -115,7 +115,7 @@ conda install -c conda-forge keras
 ** Transfer Learning
 - I used DenseNet, VGG16, VGG19, Inception, and ResNet with different algorithms architecture. Manipulated hyperparameters tuning, He Normal for kernel initializer and ReLU for activation function for the hidden layers, GlorotUniform for kernel initializer and softmax for activation function for the output layer, also MINI-BATCH, Adam, AdamW optimizer, and etc. Manipulated different learning rate, used categorical crossentropy loss algorithm, also I used callbacks (Early Stopping and ReduceLROnPlateau).
 
-- I tried not to train the algorithm layer, but lately I found that in our case training some layer will be good for some algotithms, and results would be better.\
+- I tried not to train the algorithm layer, but lately I found that in our case training some layer will be good for some algorithms, and results would be better.\
 Finally, I used confusion matrix, accuracy score, classification report, evaluating it on the test set and visualize the predicted probabilities.
 
 ## Run Example
