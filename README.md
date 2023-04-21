@@ -134,6 +134,6 @@ To run and show analysis, insights, correlation, and results between any set of 
 4. Run Selection/Line in Python Terminal command (Shift+Enter).
 
 ## Sources
-This data was taken from kaggle competition:\
+This data was taken from kaggle's competition:\
 https://www.kaggle.com/t/80b4d31ea077422ebd9c95c46f1f9e52
 
